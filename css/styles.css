@@ -58,6 +58,7 @@ header {
   font-weight: bolder;
   color: #fff;
   text-shadow: 0 0 2px #000;
+  width: calc(100% - 25px);
 }
 
 #hero .information-container .information span {
