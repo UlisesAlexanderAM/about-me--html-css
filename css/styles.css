@@ -56,13 +56,14 @@ header {
 
 #hero .information-container .information {
   font-weight: bolder;
-  color: #000;
-  text-shadow: 0 0 2px #fff;
+  color: #fff;
+  text-shadow: 0 0 2px #000;
 }
 
 #hero .information-container .information span {
   display: inline-block;
-  color: #1f1f1f;
+  color: #d4d1cb;
+  text-shadow: 0 0 2px #181a1b;
   margin-bottom: 72px;
 }
 
